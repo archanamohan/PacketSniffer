@@ -1,0 +1,7 @@
+To design and implement a program for  Packet Sniffer that will  capture/sniff/detect network traffic packet by packet and analyze them for various reasons such as isolate the network issues, detect the intrusions, monitor the resource utilization, test and troubleshoot the protocol implementations, and gather network statistics. Furthermore , this analysis will help us explore the set of protocols that are HTTP , TCP , UDP , ICMP and ARP .
+
+Platform used : Linux
+
+GUI is designed using : Python GUI 
+
+By analyzing the various packets and gaining information speciﬁc to a host, destination, route it had taken and underlying network from the packet. We have collated fields like  • Source IP (IPV4) • Destination IP (IPV4) • Total Size of Data • Time-to-Live • Source Port • Destination Port • Sequence No (Protocol Dependant) • Acknowledge No (Protocol Dependant) • window size (Protocol Dependant) • MAC address
